@@ -20,8 +20,8 @@
 <h2>🏅 Certifications & Core Training:</h2>
 
 - <b>CompTIA Security+</b> (Expected 2026)
-- <b>Google Cybersecurity Professional Certificate</b>[cite: 3]
-- <b>Google IT Support Professional Certificate</b>[cite: 2]
+- <b>Google Cybersecurity Professional Certificate</b>
+- <b>Google IT Support Professional Certificate</b>
 
 <h2>🤝 Connect with me:</h2>
 
