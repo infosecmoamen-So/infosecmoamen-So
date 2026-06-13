@@ -24,7 +24,6 @@
 - <b>Google IT Support Professional Certificate</b>
 
 <h2>🤝 Connect with me:</h2>
-<h2>🤝 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/ضع_اسم_المستخدم_الخاص_بك_هنا" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
