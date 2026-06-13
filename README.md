@@ -24,11 +24,11 @@
 - <b>Google IT Support Professional Certificate</b>
 
 <h2>🤝 Connect with me:</h2>
+<h2>🤝 Connect with me:</h2>
 
-[<img align="left" alt="Omar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Omar | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-
-<br/>
-
-[linkedin]: [ضع هنا رابط لينكد إن الخاص بك]
-[github]: https://github.com/[infosecmoamen-So]
+<a href="https://www.linkedin.com/in/ضع_اسم_المستخدم_الخاص_بك_هنا" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/infosecmoamen-So" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
