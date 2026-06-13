@@ -31,4 +31,4 @@
 <br/>
 
 [linkedin]: [ضع هنا رابط لينكد إن الخاص بك]
-[github]: https://github.com/[ضع هنا اسم مستخدم جيت هاب الخاص بك]
+[github]: https://github.com/[infosecmoamen-So]
