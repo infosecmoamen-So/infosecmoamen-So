@@ -1,9 +1,13 @@
-<h1>Hi, I'm Omar! <br/><a href="[ضع هنا رابط لينكد إن الخاص بك]">Cybersecurity & GRC Professional</a></h1>
+<h1>Hi, I'm Omar! <br/>Cybersecurity & GRC Professional</h1>
 
-<p>An aspiring Cybersecurity professional with over 10 years of experience in corporate operations, logistics, and e-commerce platform management. I specialize in bridging the gap between business operations and technical security, focusing heavily on Governance, Risk, and Compliance (GRC), Third-Party Risk Management (TPRM), and Identity Access Management (IAM).</p>
+<p>An aspiring Cybersecurity and GRC professional with a Bachelor's degree in Administrative Sciences from King Abdulaziz University and over 10 years of hands-on experience orchestrating e-commerce operations and logistics. My unique background allows me to seamlessly bridge the gap between business objectives and technical security protocols. I specialize in Governance, Risk, and Compliance (GRC), focusing on aligning operational environments with strict regulatory frameworks. </p>
+
+<p>Driven by a commitment to secure and scale digital transformation, my long-term vision is to lead digital infrastructure at a national level, aspiring to serve as the Minister of Communications and Technology in Somalia.</p>
+
+<hr/>
 
 <h2>🛡️ 1. Governance, Risk, and Compliance (GRC & Risk Management)</h2>
-<p>This core axis highlights my expertise in bridging e-commerce operations with cybersecurity standards, focusing on auditing, risk prioritization, and data protection.</p>
+<p>This core axis highlights my expertise in bridging corporate operations with cybersecurity standards, focusing on auditing, risk prioritization, and data protection policies.</p>
 
 <ul>
   <li>
@@ -12,30 +16,31 @@
   </li>
   <br/>
   <li>
-    <b>Risk Scoring & Threat Prioritization Matrix</b> — <i>(In Progress)</i><br/>
-    Building a practical risk assessment matrix to evaluate and prioritize threat mitigation strategies based on asset value, threat likelihood, and severity impact.
+    <b>Operational Risk Scoring & Threat Prioritization Matrix</b> — <a href="https://github.com/infosecmoamen-So/Bank-Risk-Assessment-Matrix" target="_blank">View Project</a><br/>
+    Built a quantitative risk assessment matrix for a commercial bank to evaluate and prioritize threat mitigation strategies based on asset value, threat likelihood, and severity impact.
   </li>
   <br/>
   <li>
-    <b>Data Governance & Handling Practices</b> — <i>(In Progress)</i><br/>
-    Defining data classification tiers and establishing standard operating procedures for handling Customer PII safely across operational and logistics workflows.
+    <b>Data Governance & Handling Practices</b> — <a href="https://github.com/infosecmoamen-So/Data-Handling-Privacy-Controls" target="_blank">View Project</a><br/>
+    Performed a root-cause analysis on a corporate data leak. Defined data classification tiers and established standard operating procedures based on NIST SP 800-53 (AC-6) to secure operational workflows.
   </li>
 </ul>
 
-<h2>👨‍💻 Technical & Identity Access Management (IAM) Labs:</h2>
+<hr/>
 
-- <b>Identity & Access Control (IAM)</b>
-  - <a>System Administration & Directory Services</a> - Implementing corporate user access controls and managing domain systems using <b>Active Directory</b>.
-- <b>Linux Bash & System Hardening</b>
-  - <a>File Permissions Management</a> - Applying the principle of least privilege through Linux command-line to manage authorization and secure system files.
-- <b>Data Integrity & Database Security</b>
-  - <a>SQL Log Auditing & Filtering</a> - Constructing advanced SQL queries and filters to analyze security databases and audit transaction data integrity.
+<h2>⚙️ 2. Network Security & Threat Detection (Upcoming)</h2>
+<p><i>Projects focused on network architecture, packet analysis, and security incident event management (SIEM) are currently being documented and will be published soon.</i></p>
+
+<hr/>
 
 <h2>🏅 Certifications & Core Training:</h2>
+<ul>
+  <li><b>CompTIA Security+</b> (Expected 2026)</li>
+  <li><b>Google Cybersecurity Professional Certificate</b></li>
+  <li><b>Google IT Support Professional Certificate</b></li>
+</ul>
 
-- <b>CompTIA Security+</b> (Expected 2026)
-- <b>Google Cybersecurity Professional Certificate</b>
-- <b>Google IT Support Professional Certificate</b>
+<br/>
 
 <h2>🤝 Connect with me:</h2>
 
