@@ -1,6 +1,6 @@
 <h1>Hi, I'm Omar! <br/>Cybersecurity & GRC Professional</h1>
 
-<p>An aspiring Cybersecurity and GRC professional with a Bachelor's degree in Administrative Sciences from King Abdulaziz University and over 10 years of hands-on experience orchestrating e-commerce operations and logistics. My unique background allows me to seamlessly bridge the gap between business objectives and technical security protocols. I specialize in Governance, Risk, and Compliance (GRC), focusing on aligning operational environments with strict regulatory frameworks. </p>
+<p>An aspiring Cybersecurity and GRC professional with a Bachelor's degree in Administrative Sciences from King Abdulaziz University and over 8 years of hands-on experience orchestrating e-commerce operations and logistics. My unique background allows me to seamlessly bridge the gap between business objectives and technical security protocols. I specialize in Governance, Risk, and Compliance (GRC), focusing on aligning operational environments with strict regulatory frameworks. </p>
 
 <p>Driven by a commitment to secure and scale digital transformation, my long-term vision is to lead digital infrastructure at a national level, aspiring to serve as the Minister of Communications and Technology in Somalia.</p>
 
