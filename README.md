@@ -2,7 +2,7 @@
 
 # 🛡️ Aspiring Cybersecurity Leader & GRC Specialist | Bridging Business Strategy & Technical Defense
 
-With over 10 years of robust experience managing complex operations in top-tier e-commerce environments (Noon & Amazon), coupled with an academic foundation in Business Administration from King Abdulaziz University, I specialize in transforming operational challenges into secure, resilient, and compliant enterprise systems.
+With over 8 years of robust experience managing complex operations in top-tier e-commerce environments (Noon & Amazon), coupled with an academic foundation in Business Administration from King Abdulaziz University, I specialize in transforming operational challenges into secure, resilient, and compliant enterprise systems.
 
 My professional vision is to leverage high-level Governance, Risk, and Compliance ($GRC$) frameworks alongside hands-on technical defensive strategies to lead secure digital transformations and build resilient national technology infrastructures.
 
