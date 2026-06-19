@@ -50,3 +50,17 @@ Leveraging relational databases to audit access logs, tracking unauthorized even
 [Use the NIST CSF to Respond to a Security Incident](https://github.com/infosecmoamen-So/NIST-Incident-Response)
 
 Applying the National Institute of Standards and Technology ($NIST$) Cybersecurity Framework to contain, mitigate, and recover from real-world network attacks (DDoS/ICMP Flood).
+
+# 🎓 Academic & Professional Credentials
+
+**B.S. in Business Administration** – King Abdulaziz University
+
+**8+ Years in E-commerce Operations** – Amazon & Noon (Operational Security, Supply Chain Security)
+
+**CompTIA Security+** (In Progress)
+
+# 🤝 Connect with Me
+
+**LinkedIn**: My LinkedIn Profile 
+
+**GitHub**: infosecmoamen-So
