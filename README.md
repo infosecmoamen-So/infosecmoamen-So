@@ -61,6 +61,8 @@ Applying the National Institute of Standards and Technology ($NIST$) Cybersecuri
 
 # 🤝 Connect with Me
 
-**LinkedIn**: My LinkedIn Profile 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 
-**GitHub**: [infosecmoamen-So](https://github.com/infosecmoamen-So)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/infosecmoamen-So)
+
