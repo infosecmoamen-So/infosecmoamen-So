@@ -14,15 +14,16 @@ My cybersecurity training is structured across three distinct pillars that showc
 
 Focusing on auditing, risk quantification, and alignment with global compliance standards.
 
-Conduct a Security Audit
+[Conduct a Security Audit](https://github.com/infosecmoamen-So/Botium-Toys-Security-Audit
+)
 
 Demonstrates the ability to perform comprehensive security control audits, identify organizational gaps, and draft actionable corporate security policies.
 
-Score Risks Based on Likelihood & Severity
+[Score Risks Based on Likelihood & Severity](https://github.com/infosecmoamen-So/Bank-Risk-Assessment-Matrix)
 
 Showcases quantitative and qualitative risk assessment skills, building risk matrices to prioritize enterprise mitigation budgets effectively.
 
-Determine Appropriate Data Handling Practices
+[Determine Appropriate Data Handling Practices](https://github.com/infosecmoamen-So/Data-Handling-Privacy-Controls)
 
 Focused on compliance frameworks (such as $GDPR$) and protecting Personally Identifiable Information ($PII$) within supply chains and logistics operations.
 
@@ -30,11 +31,11 @@ Focused on compliance frameworks (such as $GDPR$) and protecting Personally Iden
 
 Implementing access controls and enforcing the Principle of Least Privilege across operating environments.
 
-Utilizing Active Directory (AD)
+[Utilizing Active Directory (AD)](https://github.com/infosecmoamen-So/active-directory)
 
 Configuring and managing organizational hierarchies, user accounts, security groups, and access permissions in an enterprise $AD$ infrastructure.
 
-Use Linux Commands to Manage File Permissions
+[Use Linux Commands to Manage File Permissions](https://github.com/infosecmoamen-So/Use-Linux-commands-to-manage-file-permissions)
 
 Applying hands-on administrative commands (chmod, ls -la) inside the Bash shell to secure directory structures and enforce strict asset isolation.
 
@@ -42,10 +43,10 @@ Applying hands-on administrative commands (chmod, ls -la) inside the Bash shell 
 
 Harnessing data analysis tools for investigative auditing and structuring post-incident recovery efforts.
 
-Apply Filters to SQL Queries
+[Apply Filters to SQL Queries](https://github.com/infosecmoamen-So/Apply-filters-to-SQL-queries)
 
 Leveraging relational databases to audit access logs, tracking unauthorized events using advanced SQL query filtering with logical operators ($AND$, $OR$, $NOT$).
 
-Use the NIST CSF to Respond to a Security Incident
+[Use the NIST CSF to Respond to a Security Incident](https://github.com/infosecmoamen-So/NIST-Incident-Response)
 
 Applying the National Institute of Standards and Technology ($NIST$) Cybersecurity Framework to contain, mitigate, and recover from real-world network attacks (DDoS/ICMP Flood).
