@@ -1,52 +1,51 @@
-<h1>Hi, I'm Omar! <br/>Cybersecurity & GRC Professional</h1>
+# 👋 Welcome to My Portfolio! I'm Omar
 
-<p>An aspiring Cybersecurity and GRC professional with a Bachelor's degree in Administrative Sciences from King Abdulaziz University and over 8 years of hands-on experience orchestrating e-commerce operations and logistics. My unique background allows me to seamlessly bridge the gap between business objectives and technical security protocols. I specialize in Governance, Risk, and Compliance (GRC), focusing on aligning operational environments with strict regulatory frameworks. </p>
+# 🛡️ Aspiring Cybersecurity Leader & GRC Specialist | Bridging Business Strategy & Technical Defense
 
-<p>Driven by a commitment to secure and scale digital transformation, my long-term vision is to lead digital infrastructure at a national level, aspiring to serve as the Minister of Communications and Technology in Somalia.</p>
+With over 10 years of robust experience managing complex operations in top-tier e-commerce environments (Noon & Amazon), coupled with an academic foundation in Business Administration from King Abdulaziz University, I specialize in transforming operational challenges into secure, resilient, and compliant enterprise systems.
 
-<hr/>
+My professional vision is to leverage high-level Governance, Risk, and Compliance ($GRC$) frameworks alongside hands-on technical defensive strategies to lead secure digital transformations and build resilient national technology infrastructures.
 
-<h2>🛡️ 1. Governance, Risk, and Compliance (GRC & Risk Management)</h2>
-<p>This core axis highlights my expertise in bridging corporate operations with cybersecurity standards, focusing on auditing, risk prioritization, and data protection policies.</p>
+# 🎯 Strategic Cybersecurity Portfolio (The 3 Core Pillars)
 
-<ul>
-  <li>
-    <b>Enterprise Security Audit & Controls Assessment</b> — <a href="https://github.com/infosecmoamen-So/Botium-Toys-Security-Audit" target="_blank">View Project</a><br/>
-    Conducted a comprehensive internal security audit for a corporate environment. Evaluated administrative, technical, and physical controls to identify organizational vulnerabilities and map compliance requirements.
-  </li>
-  <br/>
-  <li>
-    <b>Operational Risk Scoring & Threat Prioritization Matrix</b> — <a href="https://github.com/infosecmoamen-So/Bank-Risk-Assessment-Matrix" target="_blank">View Project</a><br/>
-    Built a quantitative risk assessment matrix for a commercial bank to evaluate and prioritize threat mitigation strategies based on asset value, threat likelihood, and severity impact.
-  </li>
-  <br/>
-  <li>
-    <b>Data Governance & Handling Practices</b> — <a href="https://github.com/infosecmoamen-So/Data-Handling-Privacy-Controls" target="_blank">View Project</a><br/>
-    Performed a root-cause analysis on a corporate data leak. Defined data classification tiers and established standard operating procedures based on NIST SP 800-53 (AC-6) to secure operational workflows.
-  </li>
-</ul>
+My cybersecurity training is structured across three distinct pillars that showcase a balanced mastery of administrative strategy, identity architecture, and technical data defense.
 
-<hr/>
+# 🏛️ Pillar 1: Governance, Risk Management & Compliance (GRC)
 
-<h2>⚙️ 2. Network Security & Threat Detection (Upcoming)</h2>
-<p><i>Projects focused on network architecture, packet analysis, and security incident event management (SIEM) are currently being documented and will be published soon.</i></p>
+Focusing on auditing, risk quantification, and alignment with global compliance standards.
 
-<hr/>
+Conduct a Security Audit
 
-<h2>🏅 Certifications & Core Training:</h2>
-<ul>
-  <li><b>CompTIA Security+</b> (Expected 2026)</li>
-  <li><b>Google Cybersecurity Professional Certificate</b></li>
-  <li><b>Google IT Support Professional Certificate</b></li>
-</ul>
+Demonstrates the ability to perform comprehensive security control audits, identify organizational gaps, and draft actionable corporate security policies.
 
-<br/>
+Score Risks Based on Likelihood & Severity
 
-<h2>🤝 Connect with me:</h2>
+Showcases quantitative and qualitative risk assessment skills, building risk matrices to prioritize enterprise mitigation budgets effectively.
 
-<a href="https://www.linkedin.com/in/ضع_اسم_المستخدم_الخاص_بك_هنا" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/infosecmoamen-So" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+Determine Appropriate Data Handling Practices
+
+Focused on compliance frameworks (such as $GDPR$) and protecting Personally Identifiable Information ($PII$) within supply chains and logistics operations.
+
+# 🔑 Pillar 2: Identity & Access Management (IAM) & Asset Security
+
+Implementing access controls and enforcing the Principle of Least Privilege across operating environments.
+
+Utilizing Active Directory (AD)
+
+Configuring and managing organizational hierarchies, user accounts, security groups, and access permissions in an enterprise $AD$ infrastructure.
+
+Use Linux Commands to Manage File Permissions
+
+Applying hands-on administrative commands (chmod, ls -la) inside the Bash shell to secure directory structures and enforce strict asset isolation.
+
+# 📊 Pillar 3: Data Integrity & Frameworks (Incident Response)
+
+Harnessing data analysis tools for investigative auditing and structuring post-incident recovery efforts.
+
+Apply Filters to SQL Queries
+
+Leveraging relational databases to audit access logs, tracking unauthorized events using advanced SQL query filtering with logical operators ($AND$, $OR$, $NOT$).
+
+Use the NIST CSF to Respond to a Security Incident
+
+Applying the National Institute of Standards and Technology ($NIST$) Cybersecurity Framework to contain, mitigate, and recover from real-world network attacks (DDoS/ICMP Flood).
