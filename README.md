@@ -1,4 +1,4 @@
-# 👋 Welcome to My Portfolio! I'm Omar
+# 👋 Hi! I'm Omar
 
 # 🛡️ Aspiring Cybersecurity Leader & GRC Specialist | Bridging Business Strategy & Technical Defense
 
